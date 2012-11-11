@@ -1,1 +1,5 @@
-This file was created by IntelliJ IDEA 11.1.4 for binding GitHub repository
+Android client for FogBugz
+
+Right now it is very simple and very specific to my current need.
+
+It lists some very specific cases and allows the user to start/stop working on them
