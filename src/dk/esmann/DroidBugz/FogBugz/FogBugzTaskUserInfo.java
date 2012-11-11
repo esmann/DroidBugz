@@ -6,7 +6,6 @@ import android.content.SharedPreferences;
 import android.util.Log;
 import android.widget.Toast;
 import dk.esmann.DroidBugz.Constants;
-import dk.esmann.DroidBugz.DroidBugz;
 
 public class FogBugzTaskUserInfo extends FogBugzTask {
 
